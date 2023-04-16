@@ -1,2 +1,1 @@
-oh ok me xs
-
+simple ping pong game. Made in Python
